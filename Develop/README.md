@@ -2,11 +2,11 @@
   
   ![badge](https://img.shields.io/badge/license-MIT-blue)
   
-  # Markdown Generator 
+  # CLI README Generator 
   
   ## Description
   
-  Create a node application to make a README file
+  Generate a README.md file from the command line
   
   ## Table of Contents
   
@@ -19,29 +19,23 @@
   
   ## Installation
   
-  run "npm i" to install dedpendancies and then run "node index.js" to start app
+  The user will open the index.js file in the terminal. Then run "npm i" to install all packages required. Then run "node index.js" to start the application
   
   ## Usage
   
-  to create easy README files
+  This project is used to generate professional README files from the command line
   
       
       ![alt text](assets/images/screenshot.png)
   
   ## Credits
   
-  Previous class material
+  Previous lectures and assignments, stackoverflow and meduium
   
   ## License
   
-   
-    ## [License](#table-of-contents)
   
-    The application is covered under the following license:
-  
-    
-    [MIT](https://choosealicense.com/licenses/MIT)
-      
+  ![badge](https://img.shields.io/badge/license-MIT-blue)
   
   ## Badges
   
@@ -57,4 +51,4 @@
   
   ## Tests
   
-  no tests
+  No test were written for this code
